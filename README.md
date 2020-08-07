@@ -1,6 +1,8 @@
-# scribble
+# Drawing Pad 
 
-Let's scribble
+## Concept used:
+### Custom Painter:
+CustomPainter that serves as a background for the widget, an optional child that will draw itself above the painter, and an optional foreground painter to draw in front of the child widget.
 
 ## Getting Started
 
